@@ -1,0 +1,2 @@
+# Medi-Assist-An-ML-Based-Healthcare-Support-Tool-for-Diagnosis-and-Prescription
+Medi-Assist is a machine learning powered healthcare web application designed to assist users in the early diagnosis of diseases and provide personalized medicine recommendations based on symptoms. The system predict probable diseases and suggest appropriate treatment guidelines bridging the gap between patients and healthcare awareness.
